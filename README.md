@@ -1,7 +1,37 @@
-I'm Mert Kavasoğlu, a final-year Computer Engineering student with a strong passion for full-stack development. I specialize in creating user-friendly and responsive web applications using modern frontend technologies like React, as well as backend tools such as Node.js and Python.
+# Hi, I am Mert Kavasoğlu
 
-In addition to my experience with full-stack JavaScript, I have a solid foundation in C and C++, which strengthens my problem-solving abilities and low-level programming skills. I also work with SQL to design and query relational databases effectively.
+## 🧑‍💻 About Me:
 
-Currently, I’m focused on deepening my backend development knowledge and exploring how to build scalable and maintainable systems. I enjoy transforming ideas into working software and continuously seek to apply my skills in real-world projects.
+🎓 Computer Engineer  
+💼 Full-stack Developer  
 
-You can contact me at: mertkav33@gmail.com
+I'm a final-year Computer Engineering student passionate about building real-world solutions using both frontend and backend technologies. I work with modern stacks like React, Node.js, and Python, and also have a solid foundation in C, C++, and SQL.
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkavasoglu)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mertkav33)
+
+---
+
+## 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+📫 **Reach me at:** mertkav33@gmail.com
