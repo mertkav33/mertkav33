@@ -2,8 +2,8 @@
 
 ## 🧑‍💻 About Me:
 
-🎓 Computer Engineer  
-💼 Full-stack Developer  
+ Computer Engineer  
+ Full-stack Developer  
 
 I'm a final-year Computer Engineering student passionate about building real-world solutions using both frontend and backend technologies. I work with modern stacks like React, Node.js, and Python, and also have a solid foundation in C, C++, and SQL.
 
@@ -11,7 +11,7 @@ I'm a final-year Computer Engineering student passionate about building real-wor
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkavasoglu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-kavvasoğlu)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mertkav33)
 
 ---
