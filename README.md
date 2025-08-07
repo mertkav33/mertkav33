@@ -34,4 +34,4 @@ I'm a final-year Computer Engineering student passionate about building real-wor
 
 ---
 
-📫 **Reach me at:** mertkav33@gmail.com
+📫 **Reach me at:** mertkavvas33@gmail.com
